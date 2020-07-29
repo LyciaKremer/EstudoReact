@@ -1,0 +1,229 @@
+{
+  "categorias": [
+    {
+      "titulo": "Multiplataforma",
+      "link": "https://www.youtube.com/watch?v=2gUtfBmw86Y",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Os 16 jogos mais jogados do mundo em 2020",
+        "url": "https://www.ligadosgames.com/jogos-mais-jogados-do-mundo/"
+      },
+      "videos": [
+        {
+          "titulo": "Minecraft",
+          "url": "https://www.youtube.com/watch?v=1DhWXAiNgfQ"
+        },
+        {
+          "titulo": "Fortnite",
+          "url": "https://www.youtube.com/watch?v=MPDmnIKI75U"
+        },
+        {
+          "titulo": "Free Fire",
+          "url": "https://www.youtube.com/watch?v=Qo3nO1M5d6Y"
+        },
+        {
+          "titulo": "Call of Duty: Warzone",
+          "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+        },
+        {
+          "titulo": "League of Legends",
+          "url": "https://www.youtube.com/watch?v=7O21Z6vgtmY"
+        },
+        {
+          "titulo": "Crossfire",
+          "url": "https://www.youtube.com/watch?v=UKiWdtb2Oxs"
+        },
+        {
+          "titulo": "Subway Surfers",
+          "url": "https://www.youtube.com/watch?v=rRzdU1bt0a8"
+        },
+        {
+          "titulo": "Clash Royale",
+          "url": "https://www.youtube.com/watch?v=1RC1yxqTTd8"
+        },  
+        {
+          "titulo": "Clash of Clans",
+          "url": "https://www.youtube.com/watch?v=gTXtzQ7v6Qg"
+        },
+        {
+          "titulo": "Apex Legends",
+          "url": "https://www.youtube.com/watch?v=UMJb_mkqynU"
+        },
+        {
+          "titulo": "Counter-Strike: Global Offensive",
+          "url": "https://www.youtube.com/watch?v=edYCtaNueQY"
+        },       
+        {
+          "titulo": "PUBG",
+          "url": "https://www.youtube.com/watch?v=6FAldb21s2E"
+        },
+        {
+          "titulo": "Dota 2",
+          "url": "https://www.youtube.com/watch?v=4QxqctzXQqc"
+        }  
+      ]
+    },
+    {
+      "titulo": "Mobile",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Dez jogos mais esperados para 2020 em celular Android e iPhone (iOS)",
+        "url": "https://www.techtudo.com.br/listas/2020/01/dez-jogos-mais-esperados-para-2020-em-celular-android-ou-iphone-ios.ghtml"
+      },
+      "videos": [
+        {
+          "titulo": "Diablo Immortal",
+          "url": "https://www.youtube.com/watch?v=RtSmAwpVHsA"
+        },
+        {
+          "titulo": "Harry Potter: Magic Awakened",
+          "url": "https://www.youtube.com/watch?v=MjQnnrRln3s"
+        },
+        {
+          "titulo": "League of Legends: Wild Rift",
+          "url": "https://www.youtube.com/watch?v=e2TZAAQmGho"
+        },
+        {
+          "titulo": "Pokémon Sleep",
+          "url": "https://www.youtube.com/watch?v=z0L2lPvB1IE"
+        }, 
+        {
+          "titulo": "Pascal’s Wager",
+          "url": "https://www.youtube.com/watch?v=4eQE6_N2u70"
+        },
+        {
+          "titulo": "Star Wars: Rise to Power",
+          "url": "https://www.youtube.com/watch?v=1NMKbHrT3pg"
+        },
+        {
+          "titulo": "Apex Legends Mobile",
+          "url": "https://www.youtube.com/watch?v=Zo3Rmqj7JLk"
+        },
+        {
+          "titulo": "Castlevania: Grimoire of Souls",
+          "url": "https://www.youtube.com/watch?v=UXqzoga3-O4"
+        },
+        {
+          "titulo": "Disney Getaway Blast",
+          "url": "https://www.youtube.com/watch?v=QnJy9rOFeHw"
+        }, 
+        {
+          "titulo": "Marvel Realm of Champions",
+          "url": "https://www.youtube.com/watch?v=er3OPwYGCio"
+        }
+      ]
+    },
+    {
+      "titulo": "PC",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Os melhores jogos de PC em 2020",
+        "url": "https://www.oficinadanet.com.br/games/30289-os-melhores-jogos-de-pc"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Multiplayer",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "FPS",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "MOBA",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
