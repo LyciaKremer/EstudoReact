@@ -19,7 +19,7 @@
         },
         {
           "titulo": "Free Fire",
-          "url": "https://www.youtube.com/watch?v=Qo3nO1M5d6Y"
+          "url": "https://www.youtube.com/watch?v=WdWe7l6puRg"
         },
         {
           "titulo": "Call of Duty: Warzone",
@@ -31,15 +31,15 @@
         },
         {
           "titulo": "Crossfire",
-          "url": "https://www.youtube.com/watch?v=UKiWdtb2Oxs"
+          "url": "https://www.youtube.com/watch?v=Z4XgMaT4Peg"
         },
         {
           "titulo": "Subway Surfers",
-          "url": "https://www.youtube.com/watch?v=rRzdU1bt0a8"
+          "url": "https://www.youtube.com/watch?v=Prb01l8l-4Y"
         },
         {
           "titulo": "Clash Royale",
-          "url": "https://www.youtube.com/watch?v=1RC1yxqTTd8"
+          "url": "https://www.youtube.com/watch?v=cLs9piiF3E8"
         },  
         {
           "titulo": "Clash of Clans",
@@ -51,7 +51,7 @@
         },
         {
           "titulo": "Counter-Strike: Global Offensive",
-          "url": "https://www.youtube.com/watch?v=edYCtaNueQY"
+          "url": "https://www.youtube.com/watch?v=0IF7-WD3TPY"
         },       
         {
           "titulo": "PUBG",
@@ -73,7 +73,7 @@
       "videos": [
         {
           "titulo": "Diablo Immortal",
-          "url": "https://www.youtube.com/watch?v=RtSmAwpVHsA"
+          "url": "https://www.youtube.com/watch?v=0SSYzl9fXOQ"
         },
         {
           "titulo": "Harry Potter: Magic Awakened",
@@ -85,7 +85,7 @@
         },
         {
           "titulo": "Pokémon Sleep",
-          "url": "https://www.youtube.com/watch?v=z0L2lPvB1IE"
+          "url": "https://www.youtube.com/watch?v=9X52hQKZGek"
         }, 
         {
           "titulo": "Pascal’s Wager",
@@ -105,7 +105,7 @@
         },
         {
           "titulo": "Disney Getaway Blast",
-          "url": "https://www.youtube.com/watch?v=QnJy9rOFeHw"
+          "url": "https://www.youtube.com/watch?v=GbFDowx4Afc"
         }, 
         {
           "titulo": "Marvel Realm of Champions",
@@ -122,106 +122,114 @@
       },
       "videos": [
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Need For Speed Heat",
+          "url": "https://www.youtube.com/watch?v=9ewiJJe_nYI"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Red Dead Redemption 2",
+          "url": "https://www.youtube.com/watch?v=SXvQ1nK4oxk"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Death Stranding",
+          "url": "https://www.youtube.com/watch?v=l9W7dDQUcBo"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Resident Evil 3 Remake",
+          "url": "https://www.youtube.com/watch?v=9LrLM4Hvr9U"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Metro Exodus",
+          "url": "https://www.youtube.com/watch?v=Yt67BHd-oRA"
         }
       ]
     },
     {
       "titulo": "Multiplayer",
       "cor": "orange",
+      "link_extra": {
+        "text": "30 Melhores jogos online multiplayer grátis para jogar no PC (2020)",
+        "url": "http://mmorpgbr.com.br/jogos-online-multiplayer-gratis-pc/"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Destiny 2",
+          "url": "https://www.youtube.com/watch?v=RfUoz1_i5_E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "ARK: Survival Evolved",
+          "url": "https://www.youtube.com/watch?v=5fIAPcVdZO8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "PALADINS",
+          "url": "https://www.youtube.com/watch?v=dEwEC2MKgeQ"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Valorant",
+          "url": "https://www.youtube.com/watch?v=lWr6dhTcu-E"
+        },
+        {
+          "titulo": "Overwatch",
+          "url": "https://www.youtube.com/watch?v=1tnYpkt5G2g"
         }
       ]
     },
     {
-      "titulo": "FPS",
+      "titulo": "Jogos da Quarentena",
       "cor": "red",
       "link_extra": {
-        "text": "",
-        "url": ""
+        "text": "Todo dia um game: confira sugestões de jogos para passar a quarentena",
+        "url": "https://www.theenemy.com.br/pc/jogos-recomendados-quarentena-coronavirus#item-list-8"
       },
       "videos": [
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Warframe",
+          "url": "https://www.youtube.com/watch?v=MsbL8lFHrZI"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Stardew Valley",
+          "url": "https://www.youtube.com/watch?v=UzowO9v_-oc"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "The Witcher 3: Wild Hunt",
+          "url": "https://www.youtube.com/watch?v=ehjJ614QfeM"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Among US",
+          "url": "https://www.youtube.com/watch?v=k5InMHXTTRg"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Gartic",
+          "url": "https://www.youtube.com/watch?v=GEw8hTAOOtA"
         }
       ]
     },
     {
-      "titulo": "MOBA",
+      "titulo": "Jogos para passar o tempo",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "",
-        "url": ""
+        "text": "Quarentena? Confira 12 jogos gratuitos para passar o tempo",
+        "url": "https://tecnologia.ig.com.br/olhar-digital/2020-03-17/quarentena-confira-12-jogos-gratuitos-para-passar-o-tempo.html"
       },
       "videos": [
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Brawl Stars",
+          "url": "https://www.youtube.com/watch?v=CaryjOdYFa0"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Mario Kart Tour",
+          "url": "https://www.youtube.com/watch?v=1V6XecP27wE"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Cyberpunk 2077",
+          "url": "https://www.youtube.com/watch?v=LembwKDo1Dk"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Super Mario Odyssey",
+          "url": "https://www.youtube.com/watch?v=wGQHQc_3ycE"
         },
         {
-          "titulo": "",
-          "url": ""
+          "titulo": "Minecraft Dungeons",
+          "url": "https://www.youtube.com/watch?v=KCbE47v1qVk"
         }
       ]
     }
